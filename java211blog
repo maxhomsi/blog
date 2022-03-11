@@ -1,0 +1,19 @@
+Class 2 - Prompt 201 - 03/10/2022
+
+Describe one thing you're learning in class today.
+
+Today we learned about Conditionals. When to use Else, when to use Else If.
+Also we learned that IF has 2 options, or its is or it isnt.
+We learner about leave comments using  /** */ to help you read the code in the future. 
+
+
+
+What is the difference between == and === ?
+
+=== is a strict equality operator, it checks whether its two operands are equal, returning a Boolean result (true or false).
+
+==  equality operator (==) checks whether its two operands are equal, returning a Boolean result. 
+Unlike the strict equality operator, it attempts to convert and compare operands that are of different types.
+
+The most notable difference between this operator and the strict equality (===) operator is that the strict equality operator does not attempt type conversion. 
+Instead, the strict equality operator always considers operands of different types to be different.
