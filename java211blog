@@ -1,3 +1,18 @@
+
+Class 4 - Prompt 202 - 03/26/2022
+
+What's something that's been confusing? How would you explain it to someone else?
+
+Everything! Its even hard to explain. Its hard to know when to use what, I dont even know how to start to explain what is confusing. But I will figure it out. 
+
+
+
+What actions have you personally taken on recent projects to increase maintainability of your code
+
+
+I am trying to write more comments everythere explaning everything for myself in the future. 
+
+
 Class 2 - Prompt 201 - 03/10/2022
 
 Describe one thing you're learning in class today.
@@ -17,3 +32,5 @@ Unlike the strict equality operator, it attempts to convert and compare operands
 
 The most notable difference between this operator and the strict equality (===) operator is that the strict equality operator does not attempt type conversion. 
 Instead, the strict equality operator always considers operands of different types to be different.
+
+
