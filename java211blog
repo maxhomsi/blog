@@ -1,12 +1,21 @@
 Class 6 - Prompt 203 - 04/11/2022
 
 
-What is the event loop?
+What's the difference between an "attribute" and a "property"?
 
+The attributes have a data type of string. So no matter the value of the attribute, it will always return a string. 
 
+In contrast to the attributes, which are defined in HTML, properties belong to the DOM. 
+Since DOM is an object in JavaScript, we can get and set properties.
 
 What is the difference between call stack and task queue?
 
+The call stack is responsible for keeping track of all the operations in line to be executed.
+Whenever a function is finished, it is popped from the stack.
+
+
+The event queue is responsible for sending new functions to the stack for processing. 
+It follows the queue data structure to maintain the correct sequence in which all operations should be sent for execution.
 
 Class 4 - Prompt 202 - 03/26/2022
 
