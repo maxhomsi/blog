@@ -11,6 +11,7 @@ What advantage is there for using the arrow syntax for a method in a constructor
 Class 8 - Prompt 204 04/22/2022
 
 What is the definition of a higher-order function?
+A “higher-order function” is a function that accepts functions as parameters and/or returns a function. (pode colocar funcao na funcao)
 
 Why should you never use new Array in JavaScript?
 
