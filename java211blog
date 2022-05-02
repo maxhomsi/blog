@@ -1,10 +1,30 @@
+Class 12 - Prompt 205 04/29/2022
+
+Tell us about something you learned this week.
+
+We learned about API, how to access and GET all the information.
+
+**
+
+
+Explain the difference between mutable and immutable objects.
+
+A mutable object can be changed after it's created, and an immutable object can't.
+
+
+
 Class 10 - Prompt 205 04/22/2022
-
-
 
 Describe one thing you're learning in class today. Why do you think it will be important in your future web development journey?
 
+Today we learned how to create Tests for you code. Thats is REALLY important to make sure everything is working how it should
+
+**
+
 What advantage is there for using the arrow syntax for a method in a constructor?
+
+Function expressions are best for object methods. Arrow functions are best for callbacks or methods like map, reduce, or forEach. 
+On a fundamental level, arrow functions are simply incapable of binding a value of this different from the value of this in their scope
 
 
 
@@ -13,7 +33,11 @@ Class 8 - Prompt 204 04/22/2022
 What is the definition of a higher-order function?
 A “higher-order function” is a function that accepts functions as parameters and/or returns a function. (pode colocar funcao na funcao)
 
+**
+
 Why should you never use new Array in JavaScript?
+I saw many reasons online. Some say that loads faster. Some say is better to work. Good explanation 
+https://coderwall.com/p/h4xm0w/why-never-use-new-array-in-javascript
 
 
 
@@ -28,6 +52,8 @@ The attributes have a data type of string. So no matter the value of the attribu
 
 In contrast to the attributes, which are defined in HTML, properties belong to the DOM. 
 Since DOM is an object in JavaScript, we can get and set properties.
+
+**
 
 What is the difference between call stack and task queue?
 
@@ -44,7 +70,7 @@ What's something that's been confusing? How would you explain it to someone else
 
 Everything! Its even hard to explain. Its hard to know when to use what, I dont even know how to start to explain what is confusing. But I will figure it out. 
 
-
+**
 
 What actions have you personally taken on recent projects to increase maintainability of your code
 
@@ -60,7 +86,7 @@ Today we learned about Conditionals. When to use Else, when to use Else If.
 Also we learned that IF has 2 options, or its is or it isnt.
 We learner about leave comments using  /** */ to help you read the code in the future. 
 
-
+**
 
 What is the difference between == and === ?
 
