@@ -1,6 +1,31 @@
+Class 16 - Prompt 207 05/06/2022
+
+-Describe event bubbling.
+Event bubbling is a method of event propagation in the HTML DOM API when an event is in an element inside another element, 
+and both elements have registered a handle to that event.  It is a process that starts with the element that triggered the event and then bubbles up to the containing elements in the hierarchy.
+
+**
+
+-Explain Function.prototype.bind()
+The bind() method creates a new function that, when called, has its this keyword set to the provided value, with a given sequence of 
+arguments preceding any provided when the new function is called.
+
+Class 14 - Prompt 206 04/28/2022
+
+-Write about something you learned this week.
+Today I stared planing my project and learned little more about API.
+
+**
+
+-How do you see yourself growing as a web developer?
+RICH! 
+Best thing about being a developer is beacuse there is always somehitng new to learn. 
+
+**
+
 Class 12 - Prompt 205 04/29/2022
 
-Tell us about something you learned this week.
+-Tell us about something you learned this week.
 
 We learned about API, how to access and GET all the information.
 
